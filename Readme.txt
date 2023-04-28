@@ -1,0 +1,2 @@
+This code (exact.m) is used to find the inverse solution of a capillary imbibition problem. It uses the meniscus versus time data of a capillary in forward (L vs t) and 
+reverse direction (Lr vs tr) and gives the approximate solution to the radius of the capillary.
